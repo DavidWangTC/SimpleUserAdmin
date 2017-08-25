@@ -1,0 +1,104 @@
+
+#father {
+				
+				width: 1300px;
+				height: auto;
+				margin: auto;
+			}
+			
+			#logo {
+				
+				width: 1300px;
+				height: 52px;
+				
+			}
+			
+			.top {
+				
+				width: 431px;
+				height: 52px;
+				float: left;
+				text-align:center;
+				line-height:52px;
+				overflow:hidden;
+			}
+			
+			#clear {
+				clear: bboth
+			}
+			
+			#menu {
+				
+				width: 1300px;
+				height: 50px;
+				background-color: black;
+				text-align:center;
+				line-height:25px;
+				overflow:hidden;
+			}
+			
+			ul li {
+				display: inline;
+				color: white;
+			}
+			
+			#product {
+				
+				width: 1300px;
+				height: 531px;
+			}
+			
+			#product-top {
+				
+				width: 99.9%;
+				height: 45px;
+				padding-top: 8px;
+			}
+			
+			#product-bottom {
+				
+				width: 1300px;
+				height: 500px;
+			}
+			
+			#pbottom-letf {
+				
+				width: 196px;
+				height: 500px;
+				float: left;
+			}
+			
+			#product-bottom-right {
+				
+				width:  1100px;
+				height: 500px;
+				float: left;
+			}
+			
+			#big {
+				
+				width: 548px;
+				height: 250px;
+				float: left;
+			}
+			
+			.small {
+				
+				width: 182px;
+				height: 250px;
+				float: left;
+				/*让里面的内容居中*/
+				text-align: center;
+			}
+				#clear {
+				clear: bboth;
+				width: 100%;
+				height: 100%;
+			}
+			#bottom{
+				
+				width: 1300px;
+				height: 50px;
+				text-align: center;
+			}
+			
